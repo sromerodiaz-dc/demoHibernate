@@ -1,4 +1,4 @@
-package entity;
+package CRUDHibernate.entity;
 
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;

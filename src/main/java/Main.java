@@ -1,6 +1,6 @@
 import CRUD.CRUD;
 import CRUD.Conn;
-import entity.Persona;
+import CRUDHibernate.entity.Persona;
 import jakarta.persistence.EntityManager;
 import jakarta.persistence.EntityManagerFactory;
 import jakarta.persistence.EntityTransaction;

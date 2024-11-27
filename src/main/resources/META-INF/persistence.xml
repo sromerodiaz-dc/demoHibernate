@@ -14,7 +14,7 @@
 
         <!-- Data Source configuration -->
         <!-- Classes to be managed by JPA -->
-        <class>entity.Persona</class>
+        <class>CRUDHibernate.entity.Persona</class>
 
         <!-- Optional, exclude unlisted classes -->
         <exclude-unlisted-classes>false</exclude-unlisted-classes>
